@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session03.Eureka", "Session03.Eureka\Session03.Eureka.csproj", "{027A999F-2481-4D66-BA70-A83F7C92F8B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session03.Discover", "Session03.Discover\Session03.Discover.csproj", "{4373A676-F4D2-466A-91DF-2A6B3D4ED9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027A999F-2481-4D66-BA70-A83F7C92F8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027A999F-2481-4D66-BA70-A83F7C92F8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027A999F-2481-4D66-BA70-A83F7C92F8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027A999F-2481-4D66-BA70-A83F7C92F8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4373A676-F4D2-466A-91DF-2A6B3D4ED9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4373A676-F4D2-466A-91DF-2A6B3D4ED9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4373A676-F4D2-466A-91DF-2A6B3D4ED9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4373A676-F4D2-466A-91DF-2A6B3D4ED9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16890BD5-0AAB-40A1-8917-6EDB4963A171}
+	EndGlobalSection
+EndGlobal

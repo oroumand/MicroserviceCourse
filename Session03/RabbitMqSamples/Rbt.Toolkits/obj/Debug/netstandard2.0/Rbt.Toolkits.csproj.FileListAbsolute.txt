@@ -5,3 +5,12 @@ C:\Users\a.oroumand\source\repos\Rbt\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.T
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.AssemblyInfo.cs
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.dll
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\bin\Debug\netstandard2.0\Rbt.Toolkits.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\bin\Debug\netstandard2.0\Rbt.Toolkits.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\bin\Debug\netstandard2.0\Rbt.Toolkits.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Toolkits\obj\Debug\netstandard2.0\Rbt.Toolkits.pdb

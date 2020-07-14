@@ -38,9 +38,9 @@ namespace Comsumer
         {
             _connectionFactory = new ConnectionFactory
             {
-                HostName = "10.100.8.67",
-                UserName = "admin",
-                Password = "admin",
+                HostName = "localhost",
+                UserName = "guest",
+                Password = "guest",
                 Port = Protocols.DefaultProtocol.DefaultPort
             };
             _connection = _connectionFactory.CreateConnection();

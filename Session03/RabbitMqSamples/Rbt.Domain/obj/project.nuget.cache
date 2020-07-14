@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x2LL6RxlcRM/R69pSsVYZRL5F+9goSuU90EDji+QTIldBYQur5zlBDUSFrH81GS9bX86r+mcdHOPuEo6M+kAzQ==",
+  "dgSpecHash": "OrsiE2An2czR5/mT/wqzlpdz1ZytNnXhNBnr4bI0Y1xcwQZy3eXUzTurQ32HsSZkiLH5G3hFqcKgBj8DiApmRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

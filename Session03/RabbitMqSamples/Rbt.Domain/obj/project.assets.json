@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
       "projectName": "Rbt.Core",
-      "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

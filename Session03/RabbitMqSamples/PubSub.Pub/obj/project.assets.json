@@ -189,11 +189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\PubSub.Pub\\PubSub.Pub.csproj",
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\PubSub.Pub\\PubSub.Pub.csproj",
       "projectName": "PubSub.Pub",
-      "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\PubSub.Pub\\PubSub.Pub.csproj",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\PubSub.Pub\\PubSub.Pub.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\PubSub.Pub\\obj\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\PubSub.Pub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,11 +209,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj": {
-              "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj"
+            "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj": {
+              "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj"
             },
-            "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Toolkits\\Rbt.Toolkits.csproj": {
-              "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\Rbt.Toolkits\\Rbt.Toolkits.csproj"
+            "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Toolkits\\Rbt.Toolkits.csproj": {
+              "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Toolkits\\Rbt.Toolkits.csproj"
             }
           }
         }

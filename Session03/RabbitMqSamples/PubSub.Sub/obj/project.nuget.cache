@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rlkWfz5FhrZB8AksQrgGMFtcwQhwzEcLah5OKe9mnSsyyBlyJ9GifBO/aife8ZSb/au1/L8uf5++dc9yZuYEMw==",
+  "dgSpecHash": "O5q+tA/zmuIMAhfalCtBJpHj+2KDMXkKm2O4EXJ4X5lesIQMllWhFm7F65OwbnkB33ibameYRyT7C0rZlpA5Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\Downloads\\Compressed\\Rbt\\RabbitMqSamples\\PubSub.Sub\\PubSub.Sub.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\PubSub.Sub\\PubSub.Sub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",

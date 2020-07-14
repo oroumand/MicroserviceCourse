@@ -5,3 +5,12 @@ C:\Users\a.oroumand\source\repos\Rbt\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Cor
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.AssemblyInfo.cs
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.dll
 C:\Users\a.oroumand\source\repos\Rbt\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\bin\Debug\netstandard2.0\Rbt.Core.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\bin\Debug\netstandard2.0\Rbt.Core.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\bin\Debug\netstandard2.0\Rbt.Core.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session03\RabbitMqSamples\Rbt.Domain\obj\Debug\netstandard2.0\Rbt.Core.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rbt.Domain\Rbt.Core.csproj" />
+    <ProjectReference Include="..\Rbt.Toolkits\Rbt.Toolkits.csproj" />
+  </ItemGroup>
+
+</Project>

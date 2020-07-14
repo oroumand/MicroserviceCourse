@@ -1,0 +1,10 @@
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.exe
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\Rbt.Core.dll
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\Rbt.Toolkits.dll
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\Rbt.Core.pdb
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\bin\Debug\netcoreapp3.1\Rbt.Toolkits.pdb
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.csprojAssemblyReference.cache
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.AssemblyInfoInputs.cache
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.AssemblyInfo.cs
+C:\Users\Alireza\Downloads\Compressed\Rbt\RabbitMqSamples\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.csproj.CopyComplete

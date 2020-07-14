@@ -1,0 +1,8 @@
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\bin\Debug\netstandard2.0\CircuitBreaker.Model.deps.json
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\bin\Debug\netstandard2.0\CircuitBreaker.Model.dll
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\bin\Debug\netstandard2.0\CircuitBreaker.Model.pdb
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\obj\Debug\netstandard2.0\CircuitBreaker.Model.csprojAssemblyReference.cache
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\obj\Debug\netstandard2.0\CircuitBreaker.Model.AssemblyInfoInputs.cache
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\obj\Debug\netstandard2.0\CircuitBreaker.Model.AssemblyInfo.cs
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\obj\Debug\netstandard2.0\CircuitBreaker.Model.dll
+C:\Users\a.oroumand\source\repos\Session02\CircuitBreaker\CircuitBreaker.Model\obj\Debug\netstandard2.0\CircuitBreaker.Model.pdb

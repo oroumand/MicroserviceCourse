@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "up1efojohrDEVfOdvpUgnffgmosFoehmxYlhTF93VorDueGbbrqutZO5kzQQSVBc4g8t7L/bfchj5cH6hsZmvQ==",
+  "dgSpecHash": "y9MKK4pwxzuiaGf6TZr4xum1yp/JvMNvEb37QZAzXt4peS24ENCGHxSXjCuepaQsV0Efm6E6Y7iwezwCPuJVHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\RpcCaller\\RpcCaller.csproj",
   "expectedPackageFiles": [

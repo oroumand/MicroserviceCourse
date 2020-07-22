@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj": {}
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
         "projectName": "CircuitBreaker.Client",
-        "projectPath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\obj\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,13 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj"
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj"
               }
             }
           }
@@ -77,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
         "projectName": "CircuitBreaker.Model",
-        "projectPath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\obj\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,7 +96,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

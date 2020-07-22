@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mVC74jISpwRwuSukKm5a8o9nlGGo0hMBBEsGQqFoGX+UdK8o+XBfMTl0qjw55Oths4SnztLvM5d0dS1TYkV8Q==",
+  "dgSpecHash": "rjc6WMMifLcpYynrK68bO8lS1c1pNF9csEvNZ2vqhqotuHshzucj/+rO3drfcZnNWhM/J1lzRL1IrhYlSCbqQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Server\\CircuitBreaker.Server.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Server\\CircuitBreaker.Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

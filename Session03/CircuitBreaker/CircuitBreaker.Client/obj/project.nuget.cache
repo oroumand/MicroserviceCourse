@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "50p8f2i2BMH0Bf2wJ49oLHwgRWP7+6DqaFSfF0zKX5AeNscYFex6IZtSh7bdi9Q8PPBMWdfORYfHQfBMBh39bw==",
+  "dgSpecHash": "3czgZKW21iqpzi6HxVDgnRmcJJDeCPVTvXmpvELu0v7V6084T6XxhxY0g69B843A3pvjj4fGXrljQQL+qhsx/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Client\\CircuitBreaker.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4srQLyqAV8YiNZkDsAirswTe7P+VTeqmKNXriHkT21lgZ7wnyU/n3d7N/G0E38SYAeurzpFB/heKsHF5mNRVng==",
+  "dgSpecHash": "3r7b/SaLTmtcvyJxTn/c+gqUEr8uYwoTT0HdCNV6hmqJl5EwzXDR0PpfMxEr8rTTVPRnwrsqhDTWC759yJS8ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Comsumer\\Comsumer.csproj",
   "expectedPackageFiles": [

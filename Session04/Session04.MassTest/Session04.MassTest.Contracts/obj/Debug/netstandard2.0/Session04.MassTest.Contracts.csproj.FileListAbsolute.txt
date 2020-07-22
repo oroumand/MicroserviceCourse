@@ -1,0 +1,8 @@
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.deps.json
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.csprojAssemblyReference.cache
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.AssemblyInfoInputs.cache
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.AssemblyInfo.cs
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb

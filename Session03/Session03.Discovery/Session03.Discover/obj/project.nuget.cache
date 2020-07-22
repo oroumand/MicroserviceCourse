@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFXMtCLKUh26seGJdyPoPUTh+aeV1MeBe1r8oxX0WSCHV0wfSae5IzbCUfGqtlqINCczL9rTKzQ6IFsrBy73fg==",
+  "dgSpecHash": "rnPcycUmimDkNC6W6ernHfSvFnIU73lyCsegKE9ztIzwW0U4+0yIZtxF++veLp848EtVzR9qxxVwTBvYXm7QRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\Session03.Discovery\\Session03.Discover\\Session03.Discover.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\Session03.Discovery\\Session03.Discover\\Session03.Discover.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\consul\\0.7.2.6\\consul.0.7.2.6.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.abstractions.2.1.0.nupkg.sha512",

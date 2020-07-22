@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OrsiE2An2czR5/mT/wqzlpdz1ZytNnXhNBnr4bI0Y1xcwQZy3eXUzTurQ32HsSZkiLH5G3hFqcKgBj8DiApmRQ==",
+  "dgSpecHash": "ToqFAkGUMFKMo4owLm+yND2BBtSx2p2b+zbYGVjtfcvVHt6TRO+N8j00nBTHc5mU43nmn92xoQAZncENLuCKKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\Rbt.Domain\\Rbt.Core.csproj",
   "expectedPackageFiles": [

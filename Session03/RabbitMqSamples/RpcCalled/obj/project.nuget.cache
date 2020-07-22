@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qXcsL3LxGuiai5xKIFUicbeVnKIM4dKjO46ejJAdIxY2oSYIWiwzcjB+HPUoeGsr+cy50ZklcxXcXx/K/zbd6A==",
+  "dgSpecHash": "R9rE00g+CT2mg/q8lNxMS7M8rJDChnYE5qGMHWYuItZV8itq9vdcR1L/z8QiShoT0USF8RmUx+uBMtA8gVVkBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\RabbitMqSamples\\RpcCalled\\RpcCalled.csproj",
   "expectedPackageFiles": [

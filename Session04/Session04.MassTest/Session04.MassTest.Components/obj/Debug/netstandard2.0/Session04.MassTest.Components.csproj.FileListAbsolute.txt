@@ -1,0 +1,11 @@
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.deps.json
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.dll
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csprojAssemblyReference.cache
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.AssemblyInfoInputs.cache
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.AssemblyInfo.cs
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Components.pdb
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.csproj.CopyComplete
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.dll
+C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Components\obj\Debug\netstandard2.0\Session04.MassTest.Components.pdb

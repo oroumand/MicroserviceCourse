@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3HrktoWVwgJlVrvTZ9zp1gsap1mjjyKHKrjemj2MoOfzdRZ8BFZuIvlPENadrkcP89BqTavqRi7O4v+EsZasg==",
+  "dgSpecHash": "9gvDjq5YQW9qhEtinh6LXQ2Lk9QDfZHkj6p+QX9MJklpYKwcWMGzvtyY+BvKJ283kqoocl7NwBsMpPoyOpNggQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\Desktop\\Session02\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session03\\CircuitBreaker\\CircuitBreaker.Model\\CircuitBreaker.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

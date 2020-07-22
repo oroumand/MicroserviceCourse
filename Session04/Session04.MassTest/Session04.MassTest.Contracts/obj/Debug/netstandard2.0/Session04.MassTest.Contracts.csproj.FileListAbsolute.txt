@@ -6,3 +6,12 @@ C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts
 C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.AssemblyInfo.cs
 C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
 C:\Users\a.oroumand\source\repos\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\bin\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.MassTest\Session04.MassTest.Contracts\obj\Debug\netstandard2.0\Session04.MassTest.Contracts.pdb

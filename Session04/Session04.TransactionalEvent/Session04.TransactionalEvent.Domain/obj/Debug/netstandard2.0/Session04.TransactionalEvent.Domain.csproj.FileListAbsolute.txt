@@ -1,0 +1,12 @@
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.csproj.CopyComplete
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Domain\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.pdb

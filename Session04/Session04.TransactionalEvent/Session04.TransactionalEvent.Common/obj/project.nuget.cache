@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkbeDtuT56L9rVtHsc2WztdqXJjASVzEVxbSco1lhmF/SXyfe/TivAOlYfRXHLK0rGzvavy5EXUV8UYH2jARlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.TransactionalEvent\\Session04.TransactionalEvent.Common\\Session04.TransactionalEvent.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

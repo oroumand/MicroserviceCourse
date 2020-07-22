@@ -1,0 +1,14 @@
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Domain.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.csproj.CopyComplete
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Dal\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Dal.csproj.CoreCompileInputs.cache

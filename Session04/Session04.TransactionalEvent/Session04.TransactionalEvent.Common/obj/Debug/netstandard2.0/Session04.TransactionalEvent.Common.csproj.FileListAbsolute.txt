@@ -1,0 +1,9 @@
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\bin\Debug\netstandard2.0\Session04.TransactionalEvent.Common.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session04\Session04.TransactionalEvent\Session04.TransactionalEvent.Common\obj\Debug\netstandard2.0\Session04.TransactionalEvent.Common.pdb

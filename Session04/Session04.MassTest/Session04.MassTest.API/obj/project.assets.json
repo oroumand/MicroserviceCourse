@@ -5223,23 +5223,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a.oroumand\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Alireza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session04.MassTest\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
       "projectName": "Session04.MassTest.API",
-      "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session04.MassTest\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
-      "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session04.MassTest\\Session04.MassTest.API\\obj\\",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.API\\Session04.MassTest.API.csproj",
+      "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5247,15 +5243,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Software Collection\\DevExpressPackages": {},
-        "http://10.100.8.64:8081/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\a.oroumand\\source\\repos\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {
-              "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj"
+            "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj": {
+              "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.MassTest\\Session04.MassTest.Components\\Session04.MassTest.Components.csproj"
             }
           }
         }
@@ -5292,7 +5287,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

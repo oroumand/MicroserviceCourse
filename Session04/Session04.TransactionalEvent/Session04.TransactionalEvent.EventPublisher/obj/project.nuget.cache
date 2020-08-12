@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "78B/l8EtFHNFW/K2MJcgrHKzlEPBnDxqonehUoI0fJ/OVbdvbWtnAOxqphSRrF/IQ56iAb+Ciqr8j+CVGMR+cw==",
+  "dgSpecHash": "Eh1q5E1R690Ost0t9lxlF6h0iPfXJq0mXWc0oIQEwS364e1uPGfolfZPcoXucKHQjUdNGqHvHrUrl4fi7JOF1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session04\\Session04.TransactionalEvent\\Session04.TransactionalEvent.EventPublisher\\Session04.TransactionalEvent.EventPublisher.csproj",
   "expectedPackageFiles": [

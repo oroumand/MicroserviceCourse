@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r54fEbIF8j7KBCb4pOE1BJPSdo7+qTtpNZYa5jy+Bl7XIE1Ue/L/hBkHq9dD3vvb5vXydr44gEqa2n9sBM/Qcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\EsSample\\EsSample.Dal\\EsSample.Dal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

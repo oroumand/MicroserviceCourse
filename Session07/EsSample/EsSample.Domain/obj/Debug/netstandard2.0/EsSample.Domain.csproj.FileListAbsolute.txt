@@ -1,4 +1,0 @@
-C:\Users\Alireza\source\repos\EsSample\EsSample.Domain\obj\Debug\netstandard2.0\EsSample.Domain.csprojAssemblyReference.cache
-C:\Users\Alireza\source\repos\EsSample\EsSample.Domain\obj\Debug\netstandard2.0\EsSample.Domain.AssemblyInfoInputs.cache
-C:\Users\Alireza\source\repos\EsSample\EsSample.Domain\obj\Debug\netstandard2.0\EsSample.Domain.AssemblyInfo.cs
-C:\Users\Alireza\source\repos\EsSample\EsSample.Domain\obj\Debug\netstandard2.0\EsSample.Domain.csproj.CoreCompileInputs.cache

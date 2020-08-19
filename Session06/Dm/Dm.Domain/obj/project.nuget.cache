@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "40MLRd/n+z3jQI4y6neog+GtNOfNOOy/pNhm0mYjbnAmzpk/KqBItHSpsjlP0WSYW9cshDU1on7x+VUjXPMHhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\Dm\\Dm.Domain\\Dm.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

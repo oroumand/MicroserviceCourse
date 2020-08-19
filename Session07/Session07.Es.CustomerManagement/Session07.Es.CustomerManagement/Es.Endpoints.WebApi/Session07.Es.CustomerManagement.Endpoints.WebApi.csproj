@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventStore.Client" Version="20.6.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Es.ApplicationServices\Session07.Es.CustomerManagement.ApplicationServices.csproj" />
+    <ProjectReference Include="..\Es.EventStore.Es\Es.EventStore.Es.csproj" />
+    <ProjectReference Include="..\Es.EventStore.SqlServer\Es.EventStore.SqlServer.csproj" />
+    <ProjectReference Include="..\Es.Infrastructure.Data.Commands\Session07.Es.CustomerManagement.Infrastructure.Data.Commands.csproj" />
+  </ItemGroup>
+
+
+</Project>

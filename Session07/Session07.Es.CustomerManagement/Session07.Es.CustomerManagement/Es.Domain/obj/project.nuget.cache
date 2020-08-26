@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "We8DFaPPTgXbh+Ctbzip75WfaJWM+xDNVO+tziI7KlmrQkA747Vrzwo7Kq5inYLoUPfv823G29QTkmIN0IiDUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

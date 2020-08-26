@@ -10,8 +10,8 @@ namespace TestReceive
         public static void Main(string[] args)
         {
             args = new string[] { "CustomerNameChanged" };
-            string exchangeName = "CustomerManagementD";
-            var factory = new ConnectionFactory() { HostName = "10.100.8.67", Port = 5672, UserName = "admin", Password = "admin" };
+            string exchangeName = "CustomerManagement";
+            var factory = new ConnectionFactory() { HostName = "localhost", Port = 5672, UserName = "guest", Password = "guest" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {

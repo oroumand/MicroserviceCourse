@@ -20,7 +20,7 @@ namespace Session07.Es.CustomerManagement.Infrastructure.Messaging.Send
             string exchangeName = "CustomerManagement";
             var eventRepository = new SqlEventStore();
             DateTime fromDateTime = DateTime.Now.AddDays(-100);
-            var factory = new ConnectionFactory() { HostName = "10.100.8.67", Port = 5672, UserName = "admin", Password = "admin" };
+            var factory = new ConnectionFactory() { HostName = "localhost", Port = 5672, UserName = "admin", Password = "admin" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mmupKgG0ST5OkpeVC6amUY+hy1qxXlVMMvDMcPRy1pTi2Z/U5tWEWw7MUqq8mToLJnUUUMB1IS3NTeUN73/5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\TestReceive\\TestReceive\\TestReceive\\TestReceive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

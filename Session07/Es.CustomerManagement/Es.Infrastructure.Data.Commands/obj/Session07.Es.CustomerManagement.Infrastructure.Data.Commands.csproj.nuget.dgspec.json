@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Infrastructure.Data.Commands\\Session07.Es.CustomerManagement.Infrastructure.Data.Commands.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj",
+        "projectName": "Session07.Es.CustomerManagement.Domain",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\Es.Framework.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\Es.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\Es.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\Es.Framework.csproj",
+        "projectName": "Es.Framework",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\Es.Framework.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Infrastructure.Data.Commands\\Session07.Es.CustomerManagement.Infrastructure.Data.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Infrastructure.Data.Commands\\Session07.Es.CustomerManagement.Infrastructure.Data.Commands.csproj",
+        "projectName": "Session07.Es.CustomerManagement.Infrastructure.Data.Commands",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Infrastructure.Data.Commands\\Session07.Es.CustomerManagement.Infrastructure.Data.Commands.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Infrastructure.Data.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session07\\Session07.Es.CustomerManagement\\Session07.Es.CustomerManagement\\Es.Domain\\Session07.Es.CustomerManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

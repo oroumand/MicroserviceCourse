@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj": {}
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj",
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj",
         "projectName": "ApiGateway.Person2",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Person2\\ApiGateway.Person2.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Person2\\obj\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Person2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

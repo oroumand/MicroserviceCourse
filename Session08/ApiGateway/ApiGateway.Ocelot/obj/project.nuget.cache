@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuZJvBKUIBV7XsRDeUQYZWDmRMYpXqrWQQSKIde0CM0svIdt0vn3RhIfhKwIXat1emnJfj2fjPZ4g6qXRfvIUQ==",
+  "dgSpecHash": "ZS2ljABHm9UGTB4eQxsas3DBCiURnWITX1fCGyIwbr3uUbUb05h/ACMZ2ipLDTTRITNk1iZ6rWQ0fiooaboJEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.3\\microsoft.aspnetcore.jsonpatch.3.1.3.nupkg.sha512",

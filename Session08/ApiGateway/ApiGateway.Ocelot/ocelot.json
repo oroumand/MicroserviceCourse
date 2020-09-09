@@ -17,7 +17,8 @@
       "LoadBalancerOptions": {
         "Type": "RoundRobin"
       },
-      "UpstreamHttpMethod": [ "Get" ]
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "person-profile"
     },
     {
       "DownstreamPathTemplate": "/WeatherForecast",
@@ -30,6 +31,28 @@
       ],
       "UpstreamPathTemplate": "/w",
       "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/order/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10004
+        }
+      ],
+      "UpstreamPathTemplate": "/o/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "person-orders"
+    }
+  ],
+  "Aggregates": [
+    {
+      "RouteKeys": [
+        "person-profile",
+        "person-orders"
+      ],
+      "UpstreamPathTemplate": "/op/{id}"
     }
   ],
   "GlobalConfiguration": {

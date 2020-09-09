@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Ocelot", "ApiGateway.Ocelot\ApiGateway.Ocelot.csproj", "{FEC388C7-1C37-42D1-8EED-22DB49152BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Ocelot", "ApiGateway.Ocelot\ApiGateway.Ocelot.csproj", "{FEC388C7-1C37-42D1-8EED-22DB49152BCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Weather", "ApiGateway.Weather\ApiGateway.Weather.csproj", "{3522B137-34FD-44A6-8F6E-C06EE89F62E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Weather", "ApiGateway.Weather\ApiGateway.Weather.csproj", "{3522B137-34FD-44A6-8F6E-C06EE89F62E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Person", "ApiGateway.Person\ApiGateway.Person.csproj", "{DF7B486C-3B43-4F62-934A-691F513B9224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Person", "ApiGateway.Person\ApiGateway.Person.csproj", "{DF7B486C-3B43-4F62-934A-691F513B9224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Person2", "ApiGateway.Person2\ApiGateway.Person2.csproj", "{ED660736-3D45-4F03-9C9A-A942F05E7BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Person2", "ApiGateway.Person2\ApiGateway.Person2.csproj", "{ED660736-3D45-4F03-9C9A-A942F05E7BE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Orders", "ApiGateway.Orders\ApiGateway.Orders.csproj", "{283EBB42-83D4-4AFE-BFFD-6D3153EF32FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ED660736-3D45-4F03-9C9A-A942F05E7BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED660736-3D45-4F03-9C9A-A942F05E7BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED660736-3D45-4F03-9C9A-A942F05E7BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283EBB42-83D4-4AFE-BFFD-6D3153EF32FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283EBB42-83D4-4AFE-BFFD-6D3153EF32FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283EBB42-83D4-4AFE-BFFD-6D3153EF32FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283EBB42-83D4-4AFE-BFFD-6D3153EF32FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

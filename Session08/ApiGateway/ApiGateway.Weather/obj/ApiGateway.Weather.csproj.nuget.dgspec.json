@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj": {}
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj",
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj",
         "projectName": "ApiGateway.Weather",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Weather\\ApiGateway.Weather.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Weather\\obj\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Weather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

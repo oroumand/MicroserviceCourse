@@ -40,7 +40,6 @@ namespace ApiGateway.Ocelot
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>

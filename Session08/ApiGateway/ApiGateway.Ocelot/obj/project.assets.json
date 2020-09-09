@@ -495,11 +495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
       "projectName": "ApiGateway.Ocelot",
-      "projectPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Ocelot\\ApiGateway.Ocelot.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alireza\\source\\repos\\ApiGateway\\ApiGateway.Ocelot\\obj\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session08\\ApiGateway\\ApiGateway.Ocelot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

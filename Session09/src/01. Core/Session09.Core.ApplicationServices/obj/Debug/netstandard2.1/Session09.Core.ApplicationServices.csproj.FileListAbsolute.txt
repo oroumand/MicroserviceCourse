@@ -1,0 +1,11 @@
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\bin\Debug\netstandard2.1\Session09.Core.ApplicationServices.deps.json
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\bin\Debug\netstandard2.1\Session09.Core.ApplicationServices.dll
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\bin\Debug\netstandard2.1\Session09.Core.ApplicationServices.pdb
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\bin\Debug\netstandard2.1\Session09.Core.Domain.dll
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\bin\Debug\netstandard2.1\Session09.Core.Domain.pdb
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.AssemblyInfo.cs
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.csproj.CopyComplete
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.dll
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.ApplicationServices\obj\Debug\netstandard2.1\Session09.Core.ApplicationServices.pdb

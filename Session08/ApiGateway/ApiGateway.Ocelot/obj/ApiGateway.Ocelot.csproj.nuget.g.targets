@@ -3,4 +3,8 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.client\3.0.0\build\Microsoft.Extensions.ApiDescription.Client.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.client\3.0.0\build\Microsoft.Extensions.ApiDescription.Client.targets')" />
+    <Import Project="$(NuGetPackageRoot)nswag.apidescription.client\13.0.5\build\NSwag.ApiDescription.Client.targets" Condition="Exists('$(NuGetPackageRoot)nswag.apidescription.client\13.0.5\build\NSwag.ApiDescription.Client.targets')" />
+  </ImportGroup>
 </Project>

@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\03. Endpoints\\Session09.Endpoints.Api\\Session09.Endpoints.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj",
+        "projectName": "Session09.Core.ApplicationServices",
+        "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Software Collection\\DevExpressPackages": {},
+          "http://10.100.8.64:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "projectName": "Session09.Core.Domain",
+        "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Software Collection\\DevExpressPackages": {},
+          "http://10.100.8.64:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[1.0.0-Preview.1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj",
+        "projectName": "Session09.Infra.Data.Command.Sql",
+        "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj",
+        "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Software Collection\\DevExpressPackages": {},
+          "http://10.100.8.64:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\03. Endpoints\\Session09.Endpoints.Api\\Session09.Endpoints.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\03. Endpoints\\Session09.Endpoints.Api\\Session09.Endpoints.Api.csproj",
+        "projectName": "Session09.Endpoints.Api",
+        "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\03. Endpoints\\Session09.Endpoints.Api\\Session09.Endpoints.Api.csproj",
+        "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\03. Endpoints\\Session09.Endpoints.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Software Collection\\DevExpressPackages": {},
+          "http://10.100.8.64:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj"
+              },
+              "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              },
+              "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj": {
+                "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

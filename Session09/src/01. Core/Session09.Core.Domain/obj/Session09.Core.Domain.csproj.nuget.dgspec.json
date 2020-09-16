@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "projectName": "Session09.Core.Domain",
+        "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Software Collection\\DevExpressPackages": {},
+          "http://10.100.8.64:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[1.0.0-Preview.1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

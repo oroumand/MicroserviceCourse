@@ -116,9 +116,6 @@ C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.csprojAssemblyReference.cache
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.AssemblyInfoInputs.cache
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.AssemblyInfo.cs
-C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.csproj.CoreCompileInputs.cache
-C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.RazorTargetAssemblyInfo.cache
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\ApiGateway.Ocelot.csproj.CopyComplete
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session08\ApiGateway\ApiGateway.Ocelot\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.Ocelot.StaticWebAssets.Manifest.cache

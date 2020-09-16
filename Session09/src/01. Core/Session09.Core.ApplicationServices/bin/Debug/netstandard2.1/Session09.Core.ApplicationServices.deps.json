@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Session09.Core.ApplicationServices/1.0.0": {
+        "dependencies": {
+          "Session09.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Session09.Core.ApplicationServices.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CSharp.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Zamin.Core.Domain/1.0.0-Preview.1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Zamin.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Session09.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Zamin.Core.Domain": "1.0.0-Preview.1.0.0"
+        },
+        "runtime": {
+          "Session09.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session09.Core.ApplicationServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Zamin.Core.Domain/1.0.0-Preview.1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptUTF48dijkNyXx1JNFUzWiZEgEfYR0i+IST8HVZVq1i0tjDAqc1QRNgiHutE72XLfhToZymH8fEGtY1z1H41Q==",
+      "path": "zamin.core.domain/1.0.0-preview.1.0.0",
+      "hashPath": "zamin.core.domain.1.0.0-preview.1.0.0.nupkg.sha512"
+    },
+    "Session09.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

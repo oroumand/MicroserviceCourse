@@ -1,0 +1,8 @@
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\bin\Debug\netstandard2.1\Session09.Core.Domain.deps.json
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\bin\Debug\netstandard2.1\Session09.Core.Domain.dll
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\obj\Debug\netstandard2.1\Session09.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\obj\Debug\netstandard2.1\Session09.Core.Domain.AssemblyInfo.cs
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\bin\Debug\netstandard2.1\Session09.Core.Domain.pdb
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\obj\Debug\netstandard2.1\Session09.Core.Domain.dll
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\obj\Debug\netstandard2.1\Session09.Core.Domain.pdb
+C:\Users\a.oroumand\source\repos\Session09\src\01. Core\Session09.Core.Domain\obj\Debug\netstandard2.1\Session09.Core.Domain.csprojAssemblyReference.cache

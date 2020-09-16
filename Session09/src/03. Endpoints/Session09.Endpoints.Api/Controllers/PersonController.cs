@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Session09.Core.ApplicationServices.People.CommandHandlers;
 using Session09.Core.ApplicationServices.People.Commands;
 using Session09.Core.Domain.People.Entities;
@@ -17,9 +18,15 @@ namespace Session09.Endpoints.Api.Controllers
     [Route("api/[controller]")]
     public class PersonController : Controller
     {
+        private readonly ILogger<PersonController> _logger;
 
+        public PersonController(ILogger<PersonController> logger)
+        {
+            _logger = logger;
+        }
         public IActionResult Get([FromServices]IPersonCommandRepository repository, [FromQuery] Guid id)
         {
+            _logger.LogInformation("Hi");
             Person person =  repository.Get(BusinessId.FromGuid(id));
             return Ok(new
             {

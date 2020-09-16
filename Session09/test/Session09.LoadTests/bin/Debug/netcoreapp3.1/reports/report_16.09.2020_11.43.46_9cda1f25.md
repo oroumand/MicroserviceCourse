@@ -1,0 +1,13 @@
+# Scenario: `GET single person`
+
+- Duration: `00:00:10`
+- RPS: `919`
+- Concurrent Copies: `1`
+
+| __step__                 | __details__                                                             |
+|--------------------------|-------------------------------------------------------------------------|
+| name                     | `init`                                                                  |
+| request count            | all = `9197`, OK = `9197`, failed = `0`                                 |
+| response time            | RPS = `919`, min = `0`, mean = `0`, max = `1132`                        |
+| response time percentile | 50% = `1`, 75% = `1`, 95% = `1`, StdDev = `18`                          |
+| data transfer            | min = `0.050 Kb`, mean = `0.050 Kb`, max = `0.050 Kb`, all = `0.470 MB` |

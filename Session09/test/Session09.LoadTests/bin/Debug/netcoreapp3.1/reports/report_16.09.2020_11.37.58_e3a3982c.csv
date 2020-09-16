@@ -1,0 +1,2 @@
+scenario,duration,concurrentCopies,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+GET resources,00:00:10,1,init,17947,17947,0,1794,0,0,69,1,1,1,4,0.08,0.08,0.08,1.4

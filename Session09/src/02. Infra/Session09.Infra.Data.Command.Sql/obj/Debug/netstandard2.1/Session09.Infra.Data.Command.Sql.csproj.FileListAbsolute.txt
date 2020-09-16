@@ -9,3 +9,15 @@ C:\Users\a.oroumand\source\repos\Session09\src\02. Infra\Session09.Infra.Data.Co
 C:\Users\a.oroumand\source\repos\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.pdb
 C:\Users\a.oroumand\source\repos\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.dll
 C:\Users\a.oroumand\source\repos\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Core.Domain.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\bin\Debug\netstandard2.1\Session09.Core.Domain.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.csproj.CopyComplete
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\src\02. Infra\Session09.Infra.Data.Command.Sql\obj\Debug\netstandard2.1\Session09.Infra.Data.Command.Sql.pdb

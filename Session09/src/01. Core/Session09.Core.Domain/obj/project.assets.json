@@ -114,23 +114,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a.oroumand\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Alireza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
       "projectName": "Session09.Core.Domain",
-      "projectPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
-      "packagesPath": "C:\\Users\\a.oroumand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.oroumand\\source\\repos\\Session09\\src\\01. Core\\Session09.Core.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+      "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\a.oroumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -138,9 +134,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Software Collection\\DevExpressPackages": {},
-        "http://10.100.8.64:8081/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -176,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

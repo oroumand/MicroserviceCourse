@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eC8Yf7J6awps43ufojn8OgSK8hg95Xx4hNmqQoqU+IvenGgK4yJ+n1YLI2ZMcRqEUozgxMqimoophtpf00RNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\Consumer\\Session09.Consumer.ConsoleApp\\Session09.Consumer.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

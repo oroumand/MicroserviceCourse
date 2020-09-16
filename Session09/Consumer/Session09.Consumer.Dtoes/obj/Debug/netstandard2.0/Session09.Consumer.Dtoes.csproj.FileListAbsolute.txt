@@ -1,0 +1,9 @@
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\bin\Debug\netstandard2.0\Session09.Consumer.Dtoes.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\bin\Debug\netstandard2.0\Session09.Consumer.Dtoes.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\bin\Debug\netstandard2.0\Session09.Consumer.Dtoes.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.Dtoes\obj\Debug\netstandard2.0\Session09.Consumer.Dtoes.pdb

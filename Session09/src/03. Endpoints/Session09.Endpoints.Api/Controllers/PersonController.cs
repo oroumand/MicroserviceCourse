@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Session09.Core.ApplicationServices.People.CommandHandlers;
@@ -17,10 +18,16 @@ namespace Session09.Endpoints.Api.Controllers
     public class PersonController : Controller
     {
 
-        [HttpGet("{id}")]
-        public Person Get([FromServices]IPersonCommandRepository repository, Guid id)
+        public IActionResult Get([FromServices]IPersonCommandRepository repository, [FromQuery] Guid id)
         {
-            return repository.Get(BusinessId.FromGuid(id));
+            Person person =  repository.Get(BusinessId.FromGuid(id));
+            return Ok(new
+            {
+                FirstName = person.FirstName,
+                LastName = person.LastName,
+                Id = person.Id.Value
+
+            });
         }
 
         [HttpPost]

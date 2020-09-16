@@ -1,0 +1,17 @@
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.exe
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.deps.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.runtimeconfig.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.Dtoes.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\bin\Debug\netcoreapp3.1\Session09.Consumer.Dtoes.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.csproj.CopyComplete
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.dll
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\Consumer\Session09.Consumer.ConsoleApp\obj\Debug\netcoreapp3.1\Session09.Consumer.ConsoleApp.genruntimeconfig.cache

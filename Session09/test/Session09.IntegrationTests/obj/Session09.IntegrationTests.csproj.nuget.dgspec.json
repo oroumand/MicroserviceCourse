@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\test\\Session09.IntegrationTests\\Session09.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj",
+        "projectName": "Session09.Core.ApplicationServices",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "projectName": "Session09.Core.Domain",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Zamin.Core.Domain": {
+              "target": "Package",
+              "version": "[1.0.0-Preview.1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj",
+        "projectName": "Session09.Infra.Data.Command.Sql",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\test\\Session09.IntegrationTests\\Session09.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\test\\Session09.IntegrationTests\\Session09.IntegrationTests.csproj",
+        "projectName": "Session09.IntegrationTests",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\test\\Session09.IntegrationTests\\Session09.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\test\\Session09.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/orumand/Framework/_packaging/Hamoon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj"
+              },
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.Domain\\Session09.Core.Domain.csproj"
+              },
+              "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\02. Infra\\Session09.Infra.Data.Command.Sql\\Session09.Infra.Data.Command.Sql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

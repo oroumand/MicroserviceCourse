@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jrb52LBl3vzfjzvnhdXQHFCn/ZC3vInJgb6w+r81no5aMuNCQZiUAweqFmgARNRNyAvi5pWluj6Ce4VcJ0zsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\MicroserviceCorese\\Session09\\src\\01. Core\\Session09.Core.ApplicationServices\\Session09.Core.ApplicationServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\zamin.core.domain\\1.0.0-preview.1.0.0\\zamin.core.domain.1.0.0-preview.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

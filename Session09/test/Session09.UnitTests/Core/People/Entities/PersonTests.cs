@@ -20,7 +20,6 @@ namespace Session09.UnitTests.Core.People.Entities
             string firstName = "Alrieza";
             string lastName = "Oroumand";
             BusinessId personId = BusinessId.FromGuid(Guid.NewGuid());
-            HashSet<string> tags = new HashSet<string> { "Tag01" };
 
             //Act
             var person = Person.Create(personId, firstName, lastName);
@@ -41,7 +40,6 @@ namespace Session09.UnitTests.Core.People.Entities
             string firstName = "Alrieza";
             string lastName = "Oroumand";
             BusinessId personId = null;
-            HashSet<string> tags = new HashSet<string> { "Tag01" };
 
             //Act
             var exception = Record.Exception(() => Person.Create(personId, firstName, lastName));

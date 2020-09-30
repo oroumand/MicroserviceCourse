@@ -24,7 +24,7 @@ namespace Session09.LoadTests
             var assertions = new[]
             {
                 Assertion.ForStep(stepName, s => s.RPS >= expectedRps),
-                Assertion.ForStep(stepName, s => s.OkCount >= expectedRps * duration)
+                Assertion.ForStep(stepName, s => s.OkCount >= expectedRps * duration),
             };
 
             var scenario = ScenarioBuilder.CreateScenario("GET single person", new[] { step })

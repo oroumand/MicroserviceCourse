@@ -138,3 +138,4 @@ C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\test\Session09.LoadTe
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\test\Session09.LoadTests\obj\Debug\netcoreapp3.1\Session09.LoadTests.csproj.CoreCompileInputs.cache
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\test\Session09.LoadTests\obj\Debug\netcoreapp3.1\Session09.LoadTests.dll
 C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\test\Session09.LoadTests\obj\Debug\netcoreapp3.1\Session09.LoadTests.pdb
+C:\Users\Alireza\source\repos\MicroserviceCorese\Session09\test\Session09.LoadTests\obj\Debug\netcoreapp3.1\Session09.LoadTests.csprojAssemblyReference.cache

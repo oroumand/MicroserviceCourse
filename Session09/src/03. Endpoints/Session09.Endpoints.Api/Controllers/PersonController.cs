@@ -26,7 +26,8 @@ namespace Session09.Endpoints.Api.Controllers
         }
         public IActionResult Get([FromServices]IPersonCommandRepository repository, [FromQuery] Guid id)
         {
-            _logger.LogInformation("Hi");
+            _logger.LogInformation($"Execute at:{DateTime.Now}");
+            System.Threading.Thread.Sleep(10000);
             Person person =  repository.Get(BusinessId.FromGuid(id));
             return Ok(new
             {

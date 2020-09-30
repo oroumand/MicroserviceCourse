@@ -13,6 +13,7 @@ namespace Session09.Infra.Data.Command.Sql.People
     {
         public void Configure(EntityTypeBuilder<Person> builder)
         {
-            builder.Property(c => c.Id).HasConversion(c => c.Value, c => BusinessId.FromGuid(c));        }
+            builder.Property(c => c.Id).HasConversion(c => c.Value, c => BusinessId.FromGuid(c));     
+        }
     }
 }

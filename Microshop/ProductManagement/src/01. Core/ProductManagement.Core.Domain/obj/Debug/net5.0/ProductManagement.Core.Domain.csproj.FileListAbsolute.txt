@@ -1,0 +1,12 @@
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\bin\Debug\net5.0\ProductManagement.Core.Domain.deps.json
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\bin\Debug\net5.0\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\bin\Debug\net5.0\ref\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\bin\Debug\net5.0\ProductManagement.Core.Domain.pdb
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.csprojAssemblyReference.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.AssemblyInfoInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.AssemblyInfo.cs
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ref\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.Domain\obj\Debug\net5.0\ProductManagement.Core.Domain.pdb

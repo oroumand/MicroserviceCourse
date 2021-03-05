@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Zamin.Infra.Data.Sql.Queries" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01. Core\ProductManagement.Core.Domain\ProductManagement.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

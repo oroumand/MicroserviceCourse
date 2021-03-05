@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Zamin.EndPoints.Web" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01. Core\ProductManagement.Core.ApplicationServices\ProductManagement.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\01. Core\ProductManagement.Core.Domain\ProductManagement.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\02. Infra\ProductManagement.Infra.Data.Sql.Commands\ProductManagement.Infra.Data.Sql.Commands.csproj" />
+    <ProjectReference Include="..\..\02. Infra\ProductManagement.Infra.Data.Sql.Queries\ProductManagement.Infra.Data.Sql.Queries.csproj" />
+  </ItemGroup>
+
+</Project>

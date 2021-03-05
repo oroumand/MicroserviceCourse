@@ -1,0 +1,15 @@
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.csprojAssemblyReference.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.AssemblyInfo.cs
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.deps.json
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ref\ProductManagement.Infra.Data.Sql.Commands.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.pdb
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\bin\Debug\net5.0\ProductManagement.Core.Domain.pdb
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.csproj.CopyComplete
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ref\ProductManagement.Infra.Data.Sql.Commands.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Commands\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Commands.pdb

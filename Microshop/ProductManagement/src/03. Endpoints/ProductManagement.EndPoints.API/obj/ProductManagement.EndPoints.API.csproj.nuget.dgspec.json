@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\03. Endpoints\\ProductManagement.EndPoints.API\\ProductManagement.EndPoints.API.csproj": {}
+  },
+  "projects": {
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\ProductManagement.Core.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\ProductManagement.Core.ApplicationServices.csproj",
+        "projectName": "ProductManagement.Core.ApplicationServices",
+        "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\ProductManagement.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\np": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Zamin.Core.ApplicationServices": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj",
+        "projectName": "ProductManagement.Core.Domain",
+        "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\np": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Zamin.Core.Domain.Toolkits": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\ProductManagement.Infra.Data.Sql.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\ProductManagement.Infra.Data.Sql.Commands.csproj",
+        "projectName": "ProductManagement.Infra.Data.Sql.Commands",
+        "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\ProductManagement.Infra.Data.Sql.Commands.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\np": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Zamin.Infra.Data.Sql.Commands": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\ProductManagement.Infra.Data.Sql.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\ProductManagement.Infra.Data.Sql.Queries.csproj",
+        "projectName": "ProductManagement.Infra.Data.Sql.Queries",
+        "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\ProductManagement.Infra.Data.Sql.Queries.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\np": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Zamin.Infra.Data.Sql.Queries": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\03. Endpoints\\ProductManagement.EndPoints.API\\ProductManagement.EndPoints.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\03. Endpoints\\ProductManagement.EndPoints.API\\ProductManagement.EndPoints.API.csproj",
+        "projectName": "ProductManagement.EndPoints.API",
+        "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\03. Endpoints\\ProductManagement.EndPoints.API\\ProductManagement.EndPoints.API.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\03. Endpoints\\ProductManagement.EndPoints.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\np": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\ProductManagement.Core.ApplicationServices.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.ApplicationServices\\ProductManagement.Core.ApplicationServices.csproj"
+              },
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\01. Core\\ProductManagement.Core.Domain\\ProductManagement.Core.Domain.csproj"
+              },
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\ProductManagement.Infra.Data.Sql.Commands.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Commands\\ProductManagement.Infra.Data.Sql.Commands.csproj"
+              },
+              "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\ProductManagement.Infra.Data.Sql.Queries.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Tests\\ProductManagement\\src\\02. Infra\\ProductManagement.Infra.Data.Sql.Queries\\ProductManagement.Infra.Data.Sql.Queries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Zamin.EndPoints.Web": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

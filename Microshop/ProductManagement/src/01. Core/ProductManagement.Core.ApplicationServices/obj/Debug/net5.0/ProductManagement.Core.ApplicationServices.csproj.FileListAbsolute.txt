@@ -1,0 +1,15 @@
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.csprojAssemblyReference.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.AssemblyInfoInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.AssemblyInfo.cs
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ProductManagement.Core.ApplicationServices.deps.json
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ProductManagement.Core.ApplicationServices.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ref\ProductManagement.Core.ApplicationServices.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ProductManagement.Core.ApplicationServices.pdb
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\bin\Debug\net5.0\ProductManagement.Core.Domain.pdb
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.csproj.CopyComplete
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ref\ProductManagement.Core.ApplicationServices.dll
+G:\Src\Vs\Tests\ProductManagement\src\01. Core\ProductManagement.Core.ApplicationServices\obj\Debug\net5.0\ProductManagement.Core.ApplicationServices.pdb

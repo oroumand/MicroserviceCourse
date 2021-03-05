@@ -1,0 +1,15 @@
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ProductManagement.Core.Domain.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.csprojAssemblyReference.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.AssemblyInfoInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.AssemblyInfo.cs
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.deps.json
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ref\ProductManagement.Infra.Data.Sql.Queries.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.pdb
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\bin\Debug\net5.0\ProductManagement.Core.Domain.pdb
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.csproj.CopyComplete
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ref\ProductManagement.Infra.Data.Sql.Queries.dll
+G:\Src\Vs\Tests\ProductManagement\src\02. Infra\ProductManagement.Infra.Data.Sql.Queries\obj\Debug\net5.0\ProductManagement.Infra.Data.Sql.Queries.pdb
